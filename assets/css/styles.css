@@ -614,7 +614,7 @@ ul li {
 }
 
 .section-separator {
-  padding: 100px 0;
+  padding: 50px 0;
 }
 
 .home-section-separator {
@@ -1818,10 +1818,12 @@ body {
 */
 .mh-education {
   /* padding-right: 30px; */
+  width: 100%;
 }
 
 .mh-work {
   /* padding-left: 30px;  */
+  width: 100%;
 }
 
 .mh-work h3 {
